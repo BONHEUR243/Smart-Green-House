@@ -1,4 +1,4 @@
-this repository contains 3 main files:
+This repository contains 3 main files:
 
 The first contains Codes to write in Arduino environment for the projects to function before uploding to the microprocessor in use, 
 here ESP32 or ESP8266 are recommended for their capacity to connect to Wifi.
